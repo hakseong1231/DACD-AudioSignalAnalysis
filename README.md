@@ -110,10 +110,10 @@ T=100, D=25일 때보다 정확도는 0.0019 상승했지만 연산 시간도 T�
 - 음성에는 평균 진동수, 지터(jitter), 시머(shimmer), NHR 등 다양한 특성이 있다.
 - 논문 조사를 통해 성별, 연령대별로 각 특성의 평균과 표준편차를 구한다.
 
-<img src = "./img/2.f0_table.png" width="50%">
-<img src = "./img/3.jitter_table.png" width="50%">
-<img src = "./img/4.shimmer_table.png" width="50%">
-<img src = "./img/5.NHR_table.png" width="50%">
+<img src = "./img/2.f0_table.PNG" width="50%">
+<img src = "./img/3.jitter_table.PNG" width="50%">
+<img src = "./img/4.shimmer_table.PNG" width="50%">
+<img src = "./img/5.NHR_table.PNG" width="50%">
 
 2. 음성의 특성을 통해 특정 카테고리에 속할 확률을 계산한다.
 - 음성의 특성이 정규분포를 따른다고 가정한다.
